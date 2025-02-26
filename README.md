@@ -1,2 +1,2 @@
-# Talentum-x-Monad
+# Talentum
 Auto referrals, checkin, sign up wallet.
