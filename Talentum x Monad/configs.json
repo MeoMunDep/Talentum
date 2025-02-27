@@ -1,0 +1,14 @@
+{
+  "timeZone": "en-US",
+  "rotateProxy": false,
+  "skipInvalidProxy": true,
+  "proxyRotationInterval": 2,
+  "delayEachAccount": [1, 1],
+  "timeToRestartAllAccounts": 300,
+  "howManyAccountsRunInOneTime": 1,
+  "doTasks": true,
+  "doCheckin": true,
+  "playGames": true,
+  "setUsername": true,
+  "referralCode": ["D59EA", "1B079", "7753D", "90C45", "839D8"]
+}
