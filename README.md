@@ -8,8 +8,7 @@ Welcome to the bot setup guide! Follow the steps below to install and configure 
 
 1. [Configuration Files](#configuration-files)
    - [`configs.json`](#1-configsjson)
-   - [`datas.txt`](#2-privateKeystxt)
-   - [`wallets.txt`](#3-walletstxt)
+   - [`privateKeys.txt`](#2-privateKeystxt)
    - [`proxies.txt`](#4-proxiestxt)
 2. [Running the Bot](#running-the-bot)
 3. [Contact and Support](#contact-and-support)
